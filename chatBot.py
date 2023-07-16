@@ -1,4 +1,3 @@
-import os
 import openai 
 import gradio as gr
 import keys
